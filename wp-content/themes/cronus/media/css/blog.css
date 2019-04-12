@@ -1,0 +1,273 @@
+div.tempo-website-wrapper {
+  background-color: #ffffff;
+  max-width: 100%;
+}
+div.tempo-website-wrapper div#tempo-page.tempo-page {
+  background-color: transparent;
+}
+div.tempo-breadcrumbs {
+  background: #f5f5f5;
+}
+div.tempo-breadcrumbs div.details span.counter-wrapper {
+  background: #ffffff;
+  color: #1c2633;
+}
+div.tempo-breadcrumbs div.delimiter {
+  display: none;
+}
+div.tempo-breadcrumbs nav.tempo-navigation ul.tempo-menu-list li a:hover {
+  color: #1c2633;
+}
+.tempo-search-key {
+  padding: 0px;
+}
+h1 .tempo-search-key,
+h2 .tempo-search-key,
+h3 .tempo-search-key,
+h4 .tempo-search-key,
+h5 .tempo-search-key,
+h6 .tempo-search-key {
+  padding: 0px;
+}
+article.tempo-article h2.tempo-title a {
+  font-weight: bold;
+}
+article.tempo-article h2.tempo-title a:hover {
+  color: #000000;
+}
+article.tempo-article.classic {
+  border-width: 1px;
+  border-color: #ECECEC;
+  position: relative;
+}
+article.tempo-article.classic h2.tempo-title {
+  margin: 25px 0;
+}
+@media (max-width: 991px) {
+  article.tempo-article.classic h2.tempo-title {
+    margin: 22px 0;
+  }
+}
+@media (max-width: 767px) {
+  article.tempo-article.classic h2.tempo-title {
+    margin: 18px 0;
+  }
+}
+@media (max-width: 520px) {
+  article.tempo-article.classic h2.tempo-title {
+    margin: 14px 0;
+  }
+}
+article.tempo-article.classic h2.tempo-title a {
+  color: #1c2633;
+}
+article.tempo-article.classic h2.tempo-title a:hover {
+  color: #000000;
+}
+article.tempo-article.classic div.tempo-categories {
+  text-align: initial;
+  margin: 0px -4px;
+  padding-top: 30px;
+}
+@media (max-width: 991px) {
+  article.tempo-article.classic div.tempo-categories {
+    padding-top: 26px;
+  }
+}
+@media (max-width: 767px) {
+  article.tempo-article.classic div.tempo-categories {
+    padding-top: 20px;
+  }
+}
+@media (max-width: 520px) {
+  article.tempo-article.classic div.tempo-categories {
+    padding-top: 15px;
+  }
+}
+article.tempo-article.classic div.tempo-categories:before {
+  background-color: #9e7dd3;
+  content: '';
+  position: absolute;
+  height: 3px;
+  width: 80px;
+  left: 0px;
+  margin-top: -35px;
+}
+@media (max-width: 991px) {
+  article.tempo-article.classic div.tempo-categories:before {
+    margin-top: -30px;
+  }
+}
+@media (max-width: 767px) {
+  article.tempo-article.classic div.tempo-categories:before {
+    margin-top: -24px;
+  }
+}
+@media (max-width: 520px) {
+  article.tempo-article.classic div.tempo-categories:before {
+    margin-top: -16px;
+  }
+}
+article.tempo-article.classic div.tempo-categories a {
+  background-color: #f5f5f5;
+  border: none;
+  color: #8a95a6;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  text-transform: uppercase;
+  padding: 6px 20px;
+  margin: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+@media (max-width: 991px) {
+  article.tempo-article.classic div.tempo-categories a {
+    font-size: 12px;
+    line-height: 22px;
+  }
+}
+@media (max-width: 767px) {
+  article.tempo-article.classic div.tempo-categories a {
+    font-size: 11px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 520px) {
+  article.tempo-article.classic div.tempo-categories a {
+    font-size: 11px;
+    line-height: 20px;
+  }
+}
+article.tempo-article.classic div.tempo-categories a:hover {
+  background-color: #fafafa;
+  border-color: #fafafa;
+  color: #1c2633;
+}
+article.tempo-article.classic div.tempo-categories span {
+  display: none;
+}
+article.tempo-article.classic div.tempo-meta.top {
+  color: #cdcdcd;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 400;
+}
+@media (max-width: 991px) {
+  article.tempo-article.classic div.tempo-meta.top {
+    font-size: 13px;
+  }
+}
+@media (max-width: 767px) {
+  article.tempo-article.classic div.tempo-meta.top {
+    font-size: 12px;
+  }
+}
+@media (max-width: 520px) {
+  article.tempo-article.classic div.tempo-meta.top {
+    font-size: 12px;
+  }
+}
+article.tempo-article.classic div.tempo-meta.top a {
+  color: #8a95a6;
+  font-size: 13px;
+  font-weight: 400;
+}
+article.tempo-article.classic div.tempo-meta.top a:hover {
+  color: #1c2633;
+}
+article.tempo-article.classic a.more-link {
+  background-color: #f5f5f5;
+  border: none;
+  color: #454545;
+  font-size: 11px;
+  font-weight: 400;
+  padding: 11px 26px;
+  float: left;
+}
+article.tempo-article.classic a.more-link:hover {
+  color: #ffffff;
+  background: #9d7dd3;
+}
+.tempo-hentry .mejs-container,
+.tempo-hentry .mejs-embed,
+.tempo-hentry .mejs-embed body,
+.tempo-hentry .mejs-container .mejs-controls {
+  background-color: #2a3b4d;
+}
+.tempo-hentry .mejs-container,
+.tempo-hentry .mejs-container .mejs-mediaelement,
+.tempo-hentry .mejs-container .mejs-controls {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.tempo-hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+  background-color: #36d678;
+}
+.pagination-wrapper {
+  border-top: 1px solid #ececec;
+}
+.pagination-wrapper span,
+.pagination-wrapper a {
+  border: none;
+  font-weight: 400;
+  font-size: 12px;
+  padding: 11px 20px;
+  margin: 0px 4px;
+}
+.pagination-wrapper span {
+  background-color: #9d7dd3;
+  color: #ffffff;
+}
+.pagination-wrapper span.page-numbers.dots {
+  background-color: transparent;
+  color: #8a95a6;
+}
+.pagination-wrapper a {
+  background-color: #f5f5f5;
+  color: #1c2633;
+}
+.pagination-wrapper a:hover {
+  background-color: #9d7dd3;
+  color: #ffffff;
+}
+.pagination-wrapper nav {
+  margin: 0px;
+}
+.tempo-shortcode.posts.grid .pagination-wrapper span,
+.tempo-shortcode.posts.portfolio .pagination-wrapper span {
+  background-color: #9d7dd3;
+  border: none;
+  color: #ffffff;
+}
+.tempo-shortcode.posts.grid .pagination-wrapper span.page-numbers.dots,
+.tempo-shortcode.posts.portfolio .pagination-wrapper span.page-numbers.dots {
+  background-color: transparent;
+  border-color: transparent;
+  color: #8a95a6;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.tempo-shortcode.posts.grid .pagination-wrapper a,
+.tempo-shortcode.posts.portfolio .pagination-wrapper a {
+  background-color: #f5f5f5;
+  color: #1c2633;
+  border: none;
+}
+.tempo-shortcode.posts.grid .pagination-wrapper a:hover,
+.tempo-shortcode.posts.portfolio .pagination-wrapper a:hover {
+  background-color: #9d7dd3;
+  color: #ffffff;
+  border: none;
+}
+.tempo-shortcode.posts.grid .pagination-wrapper a,
+.tempo-shortcode.posts.portfolio .pagination-wrapper a,
+.tempo-shortcode.posts.grid .pagination-wrapper span,
+.tempo-shortcode.posts.portfolio .pagination-wrapper span {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}

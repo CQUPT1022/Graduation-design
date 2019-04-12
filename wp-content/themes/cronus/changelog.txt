@@ -1,0 +1,125 @@
+version 0.0.32 ( October 16, 2018 )
+-------------------------------------------------------
+- added options to display header phone number
+
+version 0.0.31 ( October 15, 2018 )
+-------------------------------------------------------
+- Small design improvements
+
+version 0.0.30 ( June 26, 2018 )
+-------------------------------------------------------
+- Security Improvements / escaped data base on Theme Sniffer Plugin
+
+version 0.0.29 ( June 6, 2018 )
+-------------------------------------------------------
+- Small Code Improvements
+
+version 0.0.28 ( May 10, 2018 )
+-------------------------------------------------------
+- Small UX/UI Improvements
+- Small design Improvements
+
+version 0.0.27 ( April 18, 2018 )
+-------------------------------------------------------
+- Customize Improvements
+- Theme FAQ Improvements
+
+version 0.0.26 ( March 26, 2018 )
+-------------------------------------------------------
+- Code Quality Improvements
+
+version 0.0.25 ( February 26, 2018 )
+-------------------------------------------------------
+- Update Fontello Icon fonts
+- Footer Social Improvements
+- Add footer Social items: GitLab and Reddit
+
+Version 0.0.24 ( February 2, 2018 )
+________________________________________
+
+- Added Option to enable / disable Collapsing Submenu for mobile devices
+
+Version 0.0.23 ( August 31, 2017 )
+________________________________________
+
+- Spellcheck Improvements
+- Small Design and Code Improvements
+- Small UI/UX Improvements
+
+Version 0.0.22 ( August 2, 2017 )
+________________________________________
+
+- Improvements for Header IMAGE size ( srcset )
+- Improvements for Responsive Post and Page Featured Images size using <PICTURE>, <SOURCE> and srcset="..." attribute
+- Improvements for Responsive Gallery Images size using <PICTURE>, <SOURCE> and srcset="..." attribute
+- Fixed display mode for input type="image"
+- Small UI/UX improvements
+
+Version 0.0.20 ( May 31, 2017 )
+________________________________________
+
+- Improvements for Header IMAGE size
+- Responsive Gallery Images using srcset="..." attribute
+- Hidden label for widgets Categories and Archives ( display as dropdown )
+- Display Hierarchical Categories ( post meta )
+
+Version 0.0.19 ( May 17, 2017 )
+________________________________________
+
+- Improvements for Responsive Header Image using srcset="..." attribute
+- Improvements for Responsive Featured Image using srcset="..." attribute
+- fix Headline as Text if Headline URL is null
+- fix Description as Text if Description URL is null
+
+Version 0.0.18 ( May 11, 2017 )
+________________________________________
+
+- Responsive Header Image using srcset="..." attribute
+- Responsive Header Image Scaling and Spacing Improvements
+
+Version 0.0.17 ( April 5, 2017 )
+________________________________________
+
+- auto hyphens settings ( general, header, headings and content )
+
+Version 0.0.16 ( March 23, 2017 )
+________________________________________
+
+- multiple responsive improvements
+- added small php improvements
+
+Version 0.0.15 ( February 6, 2017 )
+________________________________________
+
+- a small update to sync with parent theme
+
+Version 0.0.14 ( January 27, 2017 )
+________________________________________
+
+- added small admin css improvements
+- added small css improvements
+- added small php improvements
+
+Version 0.0.13 ( December 27, 2016 )
+________________________________________
+
+- added small improvements for Admin Dashboard
+- added small css improvements
+
+Version 0.0.12 ( December 20, 2016 )
+________________________________________
+
+- added small improvements for Height of the Header Elements
+
+Version 0.0.11 ( December 15, 2016 )
+________________________________________
+
+- small css fix for Header Logo
+- added min height for Header Image
+
+
+Version 0.0.9 ( December 8, 2016 )
+________________________________________
+
+- added default Header Image
+- small css fix for Header

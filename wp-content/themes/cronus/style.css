@@ -1,0 +1,50 @@
+/*
+Theme Name: Cronus
+Theme URI: http://mythem.es/item/cronus-premium-wordpress-theme-a-child-theme-of-tempo/
+Template: tempo
+Template Version: 0.0.55
+Description: Cronus is an white, clean, elegant, modern, beautiful and creative free WordPress theme built with HTML5 and CSS3. The clean, modern design can be used for any type of website blog: business, corporate, portfolio, products, creative, arts, design, construction, transport, manufacturing, ecology, cosmetics, beauty, hygiene, sports, culture, presentations, food business, restaurants, drink, bar, pub, club, radio, tv, television, music, movies, live style, garden, cuisine, chemical, pharmaceutical, medicine, travel, sample blog, agriculture, science, politics and more others. Theme comes with nice flat design concept and responsive layout. This theme is suitable for all type of devices: desktop, notebook, iPhone, tablete and others. Responsive design and grid system is based on twitter bootstrap framework. Theme is developed by myThem.es and it comes with nice header parallax effect. We carefully handcrafted this theme with a strong focus on typography, usability and overall user-experience. This beautiful and easy to customize WordPress theme come with live preview changes integrated with wp customize. It’s very quick to setup and easy to customize and it comes with free support. Theme features: custom header, parallax header, header buttons, custom logo, custom favicon, header custom colors, custom background color, custom background image, custom footer, custom copyright, custom social links, custom css, custom layout, left sidebar, right sidebar, full width layout, additional sidebars, custom widgets, support for jetpack plugin, styled contact form 7 plugin. Please read the FAQ: Admin Dashboard > Appearances > Theme FAQ. See our demo: <a href="https://goo.gl/fk1YRz">https://goo.gl/fk1YRz</a>
+Version: 0.0.32
+Tags:  blog, news, featured-images, one-column, theme-options, translation-ready, custom-colors, custom-menu, threaded-comments, custom-background, custom-header
+Text Domain: cronus
+Domain Path: /languages
+Author: myThem.es
+Author URI: http://mythem.es/
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+
+
+    Cronus, Copyright 2016 myThem.es ( email: cronus at mythem.es )
+    Cronus is distributed under the terms of the GNU GPL
+
+
+                     ________________
+                    |_____    _______|
+     ___ ___ ___   __ __  |  |  __       ____   ___ ___ ___       ____   ____
+    |           | |_ |  | |  | |  |___  |  __| |           |     |  __| |  __|
+    |   |   |   |  | |  | |  | |  __  | |  __| |   |   |   |  _  |  __| |__  |
+    |___|___|___|   |  |  |__| |_ ||_ | |____| |___|___|___| |_| |____| |____|
+                    |_|
+
+
+                         myThem.es Marketplace provides WordPress themes with
+                                    the best quality and the smallest prices.
+*/
+
+body{
+    background: #1c2633 !important;
+    padding: 0px;
+}
+
+body.page-template-blog-grid-php div.tempo-breadcrumbs + div.tempo-page.template-blog-portfolio,
+body.page-template-blog-portfolio-php div.tempo-breadcrumbs + div.tempo-page.template-blog-portfolio{
+    padding-top: 60px;
+}
+
+div.tempo-shortcode.posts.grid,
+div.tempo-shortcode.posts.portfolio{
+    padding-top: 5px;
+    margin-top: 0px;
+}

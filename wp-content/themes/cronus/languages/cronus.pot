@@ -1,0 +1,852 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cronus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-16 20:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: cfgs/pages/appearance/faq.php:7 templates/admin/appearance/faq/premium.php:1
+#: templates/admin/appearance/faq/premium.php:2
+#: templates/admin/appearance/faq/premium.php:17
+#: templates/admin/appearance/faq/premium.php:277
+#, php-format
+msgid "%1$s - Upgrade %2$s to Premium"
+msgstr ""
+
+#: widgets/cronus.post-meta.class.php:95
+#, php-format
+msgid "%1$s view"
+msgid_plural "%1$s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: cfgs/pages/customize/tempo.layout.php:30
+#, php-format
+msgid ""
+"%1$s: On the premium version, the content width for layout with sidebars is "
+"945 pixels."
+msgstr ""
+
+#: widgets/cronus.post-meta.class.php:81
+#, php-format
+msgctxt "..."
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/admin/appearance/faq/premium.php:231
+#: templates/admin/appearance/faq/premium.php:237
+#: templates/admin/appearance/faq/premium.php:243
+#: templates/admin/appearance/faq/premium.php:249
+msgid "1 - 5 ( you can customize number of columns )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:248
+msgid "4 columns"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:267
+msgid "4 Premium Solutions"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:265
+msgid "Access"
+msgstr ""
+
+#: cfgs/pages/appearance/faq.php:16
+#, php-format
+msgid ""
+"Activate premium features and get extended core functionality without the "
+"risk of loosing any data or settings %1$s with our %2$s that upgrades our "
+"Cronus WordPress theme."
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:23
+msgid "Additional"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:51
+msgid "Additional CSS"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:54
+msgid ""
+"All you have to do is play with them and view the live changes. Try and you "
+"will discover how easy it is to customize your own style."
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:16
+msgid "Appearance"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:2
+msgid "Appearance &rsaquo; Customize"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:170
+#: cfgs/pages/customize/tempo.header.php:286
+msgid "Background Color"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:186
+#: cfgs/pages/customize/tempo.header.php:302
+msgid "Background Color ( over )"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:8
+msgid "Background Image"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:178
+#: cfgs/pages/customize/tempo.header.php:294
+msgid "Background Transparency"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:195
+#: cfgs/pages/customize/tempo.header.php:311
+msgid "Background Transparency ( over )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:254
+msgid "Basic"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:36
+msgid "Blog"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:36
+msgid "Blog & Archives"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:29
+msgid "Blog &amp; Archives"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:235
+msgid "Blog custom Header Sidebar"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:24
+msgid "Breadcrumbs"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:59
+msgid "Buttons Align "
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:42
+msgid "Buttons Space"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:36
+#: cfgs/pages/customize/tempo.header.php:70
+msgid "Center"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.menu.php:12
+msgid "Collapse Submenu"
+msgstr ""
+
+#: cfgs/pages/customize/colors.php:9
+#: templates/admin/appearance/faq/customizer.php:7
+msgid "Colors"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:43
+msgid "Copyright (partial)"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:211
+msgid "Copyright full Control"
+msgstr ""
+
+#. Name of the theme
+#: templates/admin/appearance/faq/premium.php:10
+msgid "Cronus"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Cronus is an white, clean, elegant, modern, beautiful and creative free "
+"WordPress theme built with HTML5 and CSS3. The clean, modern design can be "
+"used for any type of website blog: business, corporate, portfolio, products, "
+"creative, arts, design, construction, transport, manufacturing, ecology, "
+"cosmetics, beauty, hygiene, sports, culture, presentations, food business, "
+"restaurants, drink, bar, pub, club, radio, tv, television, music, movies, "
+"live style, garden, cuisine, chemical, pharmaceutical, medicine, travel, "
+"sample blog, agriculture, science, politics and more others. Theme comes "
+"with nice flat design concept and responsive layout. This theme is suitable "
+"for all type of devices: desktop, notebook, iPhone, tablete and others. "
+"Responsive design and grid system is based on twitter bootstrap framework. "
+"Theme is developed by myThem.es and it comes with nice header parallax "
+"effect. We carefully handcrafted this theme with a strong focus on "
+"typography, usability and overall user-experience. This beautiful and easy "
+"to customize WordPress theme come with live preview changes integrated with "
+"wp customize. It’s very quick to setup and easy to customize and it comes "
+"with free support. Theme features: custom header, parallax header, header "
+"buttons, custom logo, custom favicon, header custom colors, custom "
+"background color, custom background image, custom footer, custom copyright, "
+"custom social links, custom css, custom layout, left sidebar, right sidebar, "
+"full width layout, additional sidebars, custom widgets, support for jetpack "
+"plugin, styled contact form 7 plugin. Please read the FAQ: Admin Dashboard "
+"&gt; Appearances &gt; Theme FAQ. See our demo: <a href=\"https://goo."
+"gl/fk1YRz\">https://goo.gl/fk1YRz</a>"
+msgstr ""
+
+#: cfgs/pages/appearance/faq.php:15
+#: templates/admin/appearance/faq/premium.php:15
+msgid "Cronus Premium"
+msgstr ""
+
+#: cfgs/pages/appearance/faq.php:7
+msgid "Cronus Premium Solution"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:73
+msgid "Custom breadcrumbs settings"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:55
+msgid "Custom Colors"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:44
+msgid "Custom CSS ( with support for: IE, IE 10, IE 9 and IE 8 )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:85
+msgid "Custom CSS Options ( special support: IE, IE8, IE9, IE10, IE11 )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:43
+msgid "Custom Favicon"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:67
+msgid "Custom Header"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:103
+msgid "Custom Header for each Page ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:97
+msgid "Custom Header for each Post ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:127
+msgid "Custom Header type Audio ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:139
+msgid "Custom Header type Google Map ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:115
+msgid "Custom Header type Hero Image ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:121
+msgid "Custom Header type Portfolio ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:109
+msgid "Custom Header type Sample Image ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:133
+msgid "Custom Header type Video ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:145
+msgid "Custom Logo ( icon )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:49
+msgid "Custom Logo ( sample )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:181
+msgid "Custom Page Template"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:205
+msgid "Custom page template filter posts by categories"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:199
+msgid "Custom page template filter posts by tags"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:151
+msgid "Custom Sidebars builder"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:163
+msgid "Custom Sidebars for each Page"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:157
+msgid "Custom Sidebars for each Post"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:259
+msgid "Customizations"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:37
+msgid ""
+"Default Layout is used for the next templates: Blog, Archives, Categories, "
+"Tags, Author and Search Results."
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:52
+msgid ""
+"Default Single Post Sidebar - is used by default for single post template."
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:110
+#: cfgs/pages/customize/tempo.header.php:228
+#: templates/admin/appearance/faq/customizer.php:18
+msgid "Description"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:93
+msgid "Display First Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:211
+msgid "Display Second Button"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:25
+msgid "Documentation"
+msgstr ""
+
+#: widgets/cronus.post-meta.class.php:64
+msgid "Edit"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:94
+msgid "enable / disable first Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:127
+#: cfgs/pages/customize/tempo.header.php:244
+msgid "enable / disable link attribut target=\"_blank\""
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:212
+msgid "enable / disable second Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.menu.php:13
+msgid "enable / disable submenu collapsing for mobile devices"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:9
+msgid "Features"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:88
+#: cfgs/pages/customize/tempo.header.php:106
+#: templates/admin/appearance/faq/customizer.php:19
+msgid "First Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:114
+msgid "first button description"
+msgstr ""
+
+#: cfgs/pages/customize/colors.php:13
+msgid "First Color"
+msgstr ""
+
+#: cfgs/pages/customize/colors.php:21
+msgid "First Color (over)"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:217
+msgid "Footer custom Menu"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:247
+msgid "Footer dark Section custom Sidebar"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:78
+msgid "Footer Dark Side"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:241
+msgid "Footer light Section custom Sidebar"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:79
+msgid "Footer social Items"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:68
+#: templates/admin/appearance/faq/customizer.php:30
+msgid "Front Page"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:42
+msgid "Front Page - Default Sidebar"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:229
+msgid "Front Page custom Header Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:9
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:43
+msgid "Front Page Sidebar - is used by default for Front Page template."
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:225
+msgid "FULL ( ~ 25 Custom Controlls )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:279
+msgid "full compatible with current version"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:48
+#: cfgs/pages/customize/tempo.layout.php:80
+#: cfgs/pages/customize/tempo.layout.php:112
+#: cfgs/pages/customize/tempo.layout.php:144
+msgid "Full Width"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:28
+#: templates/admin/appearance/faq/customizer.php:15
+msgid "General"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:187
+msgid "Grid Blog View ( + custom page template )"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:12
+msgid "Header Elements"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:10
+msgid "Header Image"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:17
+msgid "Headline"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:3
+msgid "Here you can see:"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:50
+msgid "Homepage Settings"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:26
+msgid ""
+"Horizontal align Headline and Description. This options is available only if "
+"is enable Headline or Description"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:60
+msgid ""
+"Horizontal align the buttons. This options is available only if is enable "
+"First Button or Second Button"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://mythem.es/"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"http://mythem.es/item/cronus-premium-wordpress-theme-a-child-theme-of-tempo/"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:30
+msgid "IMPORANT"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:69
+msgid ""
+"In order to use this option set you need to activate a static page on Front "
+"Page from - \"Static Front Page\" tab."
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:79
+msgid "Inside of the Sidebar the widgets will be arranged in 4 columns."
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:23
+#: cfgs/pages/customize/tempo.layout.php:41
+#: cfgs/pages/customize/tempo.layout.php:73
+#: cfgs/pages/customize/tempo.layout.php:105
+#: cfgs/pages/customize/tempo.layout.php:137
+#: templates/admin/appearance/faq/customizer.php:26
+msgid "Layout"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:35
+#: cfgs/pages/customize/tempo.header.php:69
+msgid "Left"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:47
+#: cfgs/pages/customize/tempo.layout.php:79
+#: cfgs/pages/customize/tempo.layout.php:111
+#: cfgs/pages/customize/tempo.layout.php:143
+msgid "Left Sidebar"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:266
+msgid "Limited Solution"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:12
+msgid "limited version"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.menu.php:51
+msgid "Link Color"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.menu.php:73
+msgid "Link Color (over)"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.menu.php:62
+msgid "Link Transparency"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.menu.php:85
+msgid "Link Transparency (over)"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:33 cfgs/pages/customize/tempo.layout.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:34
+msgid ""
+"Main Sidebar - is used by default for next templates: Blog, Archives, Author,"
+" Categories, Tags and Search Results."
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:9
+msgid "Menu Appearance"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:61
+msgid "Menu Custom Colors"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:48
+msgid "Menus"
+msgstr ""
+
+#. Author of the theme
+msgid "myThem.es"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:126
+#: cfgs/pages/customize/tempo.header.php:243
+msgid "Open url in new window"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:40
+msgid "Other"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:132
+#: templates/admin/appearance/faq/customizer.php:32
+msgid "Page"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:60
+msgid "Page - Default Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:10
+msgid "Page Sidebar"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:61
+msgid "Page Sidebar - is used by default for page template."
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:91
+msgid "Plugin Contact Form 7 ( styled )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:223
+msgid "Plugin Easy Google Fonts ( support )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:193
+msgid "Portfolio Blog View ( + custom page template )"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:100
+#: templates/admin/appearance/faq/customizer.php:31
+msgid "Post"
+msgstr ""
+
+#: widgets/cronus.post-categories.class.php:17
+#: widgets/cronus.post-categories.class.php:35
+msgid "Post Categories"
+msgstr ""
+
+#: widgets/cronus.post-meta.class.php:17
+msgid "Post Meta"
+msgstr ""
+
+#: widgets/cronus.post-meta.class.php:35
+msgid "Post Meta Details"
+msgstr ""
+
+#: widgets/cronus.post-tags.class.php:18 widgets/cronus.post-tags.class.php:36
+msgid "Post Tags"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:255
+#: templates/admin/appearance/faq/premium.php:261
+msgid "Priority"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:31
+msgid "Responsive layout"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:37
+#: cfgs/pages/customize/tempo.header.php:71
+msgid "Right"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:49
+#: cfgs/pages/customize/tempo.layout.php:81
+#: cfgs/pages/customize/tempo.layout.php:113
+#: cfgs/pages/customize/tempo.layout.php:145
+msgid "Right Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:206
+#: cfgs/pages/customize/tempo.header.php:224
+#: templates/admin/appearance/faq/customizer.php:20
+msgid "Second Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:232
+msgid "second button description"
+msgstr ""
+
+#: cfgs/pages/customize/colors.php:30
+msgid "Second Color"
+msgstr ""
+
+#: cfgs/pages/customize/colors.php:38
+msgid "Second Color (over)"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:260
+msgid "Selective ( at our choice )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:169
+msgid "Shortcodes"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:175
+msgid "Shortcodes Manager"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:54
+#: cfgs/pages/customize/tempo.layout.php:86
+#: cfgs/pages/customize/tempo.layout.php:118
+#: cfgs/pages/customize/tempo.layout.php:150
+msgid "Sidebar"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:37
+msgid "Sidebars &amp; Custom Layouts"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:37
+msgid "Single Post"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:51
+msgid "Single Post - Default Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:11
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:6
+msgid "Site Identity"
+msgstr ""
+
+#: cfgs/pages/customize/site-identity.php:54
+msgid "Site Title Color"
+msgstr ""
+
+#: cfgs/pages/customize/site-identity.php:65
+msgid "Site Title Transparency"
+msgstr ""
+
+#: cfgs/pages/customize/site-identity.php:76
+msgid "Site Title Transparency (over)"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:38
+msgid "Social"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:253
+msgid "Support"
+msgstr ""
+
+#: cfgs/pages/customize/site-identity.php:88
+msgid "Tagline Color"
+msgstr ""
+
+#: cfgs/pages/customize/site-identity.php:99
+msgid "Tagline Transparency"
+msgstr ""
+
+#: cfgs/pages/customize/site-identity.php:110
+msgid "Tagline Transparency (over)"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:102
+#: cfgs/pages/customize/tempo.header.php:220
+msgid "Text"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:25
+msgid "Text Align "
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:136
+#: cfgs/pages/customize/tempo.header.php:252
+msgid "Text Color"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:152
+#: cfgs/pages/customize/tempo.header.php:268
+msgid "Text Color ( over )"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:144
+#: cfgs/pages/customize/tempo.header.php:260
+msgid "Text Transparency"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:161
+#: cfgs/pages/customize/tempo.header.php:277
+msgid "Text Transparency ( over )"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:187
+#: cfgs/pages/customize/tempo.header.php:303
+msgid "the Background Color when the mouse cursor is over the button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:196
+#: cfgs/pages/customize/tempo.header.php:312
+msgid "the Background Transparency when the mouse cursor is over the button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:153
+#: cfgs/pages/customize/tempo.header.php:269
+msgid "the Text Color when the mouse cursor is over the button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:162
+#: cfgs/pages/customize/tempo.header.php:278
+msgid "the Text Transparency when the mouse cursor is over the button"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:1
+msgid ""
+"This theme comes with a set of options what allow you to customize content, "
+"header, layouts, social items and others. You can see next theme options "
+"panels if you go to:"
+msgstr ""
+
+#: widgets/cronus.post-categories.class.php:19
+msgid "This widget can be used only for single post template"
+msgstr ""
+
+#: widgets/cronus.post-meta.class.php:19
+msgid "This widget can be used only for single post templates"
+msgstr ""
+
+#: widgets/cronus.post-tags.class.php:20
+msgid "This widget can be used only for single.php template"
+msgstr ""
+
+#: widgets/cronus.post-categories.class.php:92
+#: widgets/cronus.post-meta.class.php:126 widgets/cronus.post-tags.class.php:92
+msgid "Title"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:273
+#: templates/admin/appearance/faq/premium.php:278
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:18
+msgid "upgrade to premium"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:118
+#: cfgs/pages/customize/tempo.header.php:236
+msgid "URL"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.menu.php:74
+#: cfgs/pages/customize/tempo.menu.php:86
+msgid "When the mouse is over the Menu Link."
+msgstr ""
+
+#: cfgs/pages/customize/colors.php:22 cfgs/pages/customize/colors.php:39
+#: cfgs/pages/customize/site-identity.php:77
+#: cfgs/pages/customize/site-identity.php:111
+msgid "When the mouse is over the Title Link."
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:49
+msgid "Widgets"
+msgstr ""
+
+#: widgets/cronus.post-meta.class.php:72
+#, php-format
+msgid "Written by %1$s"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:273
+#, php-format
+msgid ""
+"You can decide whether to create your site using limited version or %1$s"
+msgstr ""

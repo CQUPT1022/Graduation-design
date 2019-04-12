@@ -1,0 +1,191 @@
+footer.tempo-footer {
+  background: #2a3b4d;
+}
+footer.tempo-footer div.cronus-social {
+  background: #f8f9fb;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item {
+  position: relative;
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item:before {
+  content: '';
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  position: absolute;
+  width: 1px;
+  background: #dde3ee;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item:first-child:before {
+  height: 0px;
+  width: 0px;
+  background: transparent;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item:hover:before {
+  background: transparent;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a {
+  border: none;
+  width: 100%;
+  margin: 0px;
+  padding: 40px 0px;
+  text-align: center;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+@media ( min-width: 481px ) and ( max-width: 767px ) {
+  footer.tempo-footer div.cronus-social div.cronus-social-item a {
+    padding: 20px 0px;
+  }
+}
+@media ( max-width: 480px ) {
+  footer.tempo-footer div.cronus-social div.cronus-social-item a {
+    padding: 15px 0px;
+  }
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a,
+footer.tempo-footer div.cronus-social div.cronus-social-item a:before {
+  display: block;
+  color: #8a95a6;
+  font-size: 22px;
+  line-height: 34px;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a:hover:before {
+  color: #ffffff;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-instagram:hover {
+  background-color: #00749c;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-github:hover {
+  background-color: #0084c5;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-gitlab:hover {
+  background-color: #31353e;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-picasa:hover {
+  background-color: #415e5f;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-evernote:hover {
+  background-color: #7ac142;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-vimeo:hover {
+  background-color: #00beff;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-vimeo-circled:hover {
+  background-color: #00beff;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-twitter:hover {
+  background-color: #00b0ef;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-skype:hover {
+  background-color: #00b3f2;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-renren:hover {
+  background-color: #0d80e4;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-rdio:hover {
+  background-color: #006ed4;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-linkedin:hover {
+  background-color: #0082b2;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-behance:hover {
+  background-color: #0066ff;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-dropbox:hover {
+  background-color: #0083d1;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-vkontakte:hover {
+  background-color: #4E729A;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-facebook:hover {
+  background-color: #265999;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-tumblr:hover {
+  background-color: #174863;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-dribbble:hover {
+  background-color: #ff2788;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-flickr:hover {
+  background-color: #0062dd;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-stumbleupon:hover {
+  background-color: #ff2419;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-lastfm:hover {
+  background-color: #fb0000;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-gplus:hover {
+  background-color: #f32e31;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-youtube-play:hover {
+  background-color: #cd201f;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-youtube:hover {
+  background-color: #cd201f;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-pinterest:hover {
+  background-color: #ef0021;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-smashing:hover {
+  background-color: #ff462c;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-soundcloud:hover {
+  background-color: #ff4f00;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-reddit:hover {
+  background-color: #ee5831;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-flattr:hover {
+  background-color: #ff6f00;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-odnoklassniki:hover {
+  background-color: #f58220;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-mixi:hover {
+  background-color: #d1ad5a;
+}
+footer.tempo-footer div.cronus-social div.cronus-social-item a.tempo-icon-rss:hover {
+  background-color: #ff7600;
+}
+footer.tempo-footer div.tempo-copyright {
+  background: #1c2633;
+}
+footer.tempo-footer div.tempo-copyright p {
+  color: rgba(255, 255, 255, 0.7);
+  margin: 22px 0px;
+  font-size: 14px;
+}
+@media (max-width: 991px) {
+  footer.tempo-footer div.tempo-copyright p {
+    margin: 20px 0px;
+    font-size: 13px;
+  }
+}
+@media (max-width: 767px) {
+  footer.tempo-footer div.tempo-copyright p {
+    margin: 18px 0px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 520px) {
+  footer.tempo-footer div.tempo-copyright p {
+    margin: 16px 0px;
+    font-size: 11px;
+  }
+}
+footer.tempo-footer div.tempo-copyright p a {
+  color: #ffffff;
+  margin-left: 5px;
+}
+footer.tempo-footer .tempo-nav {
+  background-color: rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,34 @@
+div.tempo-comments-wrapper ol.tempo-comments-list li.comment header span.tempo-comment-meta span.comment-replay a {
+  background-color: #f5f5f5;
+  color: #8a95a6;
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+div.tempo-comments-wrapper ol.tempo-comments-list li.comment header span.tempo-comment-meta span.comment-replay a:hover {
+  background-color: #fafafa;
+  color: #1c2633;
+}
+div.tempo-comments-wrapper ol.tempo-comments-list li.comment header span.tempo-comment-meta cite span.tempo-author-tag {
+  background-color: #32c770;
+}
+div.tempo-comments-wrapper ol.tempo-comments-list li.comment header span.tempo-comment-meta time.comment-time {
+  text-transform: uppercase;
+}
+div.tempo-comments-wrapper div.comment-respond form.comment-form p.form-submit input[type="submit"] {
+  background-color: #9e7dd3;
+  border-color: #9e7dd3;
+}
+div.tempo-comments-wrapper div.comment-respond form.comment-form p.form-submit input[type="submit"]:hover {
+  background-color: transparent;
+  border-color: #9476c4;
+  color: #9476c4;
+}
+div.tempo-comments-wrapper div.comment-respond form.comment-form p.form-submit input[type="submit"]:focus,
+div.tempo-comments-wrapper div.comment-respond form.comment-form p.form-submit input[type="submit"]:active,
+div.tempo-comments-wrapper div.comment-respond form.comment-form p.form-submit input[type="submit"].focus,
+div.tempo-comments-wrapper div.comment-respond form.comment-form p.form-submit input[type="submit"].active {
+  background-color: transparent;
+  border-color: #896db5;
+  color: #896db5;
+}
